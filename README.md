@@ -47,21 +47,3 @@ Install manually if needed:
 pip install pandas numpy scikit-learn scipy matplotlib seaborn yellowbrick
 ```
 
-## Usage
-
-1. Clone the repo and ensure `marketing_campaign.csv` is present alongside the notebook.
-2. Open `Customer_Segmentation_Project.ipynb` in Jupyter Notebook / JupyterLab.
-3. Run all cells top to bottom.
-
-## Project Structure
-
-```
-.
-├── Customer_Segmentation_Project.ipynb   # Main analysis notebook
-├── marketing_campaign.csv                # Dataset (not included — add your own)
-└── README.md
-```
-
-## License
-
-Add a license of your choice (e.g. MIT) if you plan to share this publicly.
